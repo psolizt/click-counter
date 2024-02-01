@@ -1,4 +1,4 @@
-# 📌 Clon de Testimonios freeCodeCamp   
+# 📌 Contador de Click's freeCodeCamp   
 
 ¡Hola! Esta es una aplicación desarrollada con React que representa un contador de clicks, en donde utilizamos estados(useState).
 
